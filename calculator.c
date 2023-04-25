@@ -66,6 +66,6 @@ int main() {
         scanf(" %c", &decision);
     }
     printf("\nNumber of operations performed: %d\n", numOperations);
-    printf("Exiting");
+    printf("Exiting\n");
     return 0;
 }
