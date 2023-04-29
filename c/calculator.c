@@ -1,3 +1,8 @@
+/*
+Name: Ida Voong
+Name: Jenna Chan
+*/
+
 #include <stdio.h>
 #include "operations.h"
 
